@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piyush0912/](https://github.com/Piyush0912/)
 
-!- 📝 I Have my portfolio at [https://nmastepankaj.netlify.app/](https://nmastepankaj.netlify.app/)
+- 📝 I Have my portfolio at [https://nmastepankaj.netlify.app/](https://nmastepankaj.netlify.app/)
 
 - 💬 Ask me about **C/C++, DSA, Competitive Programming,Android development**
 
@@ -53,6 +53,9 @@
 	</a>
 	<a href="https://Android development.dev/" target="_blank">
 		<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/android-sdk-icon.png" width="40" height="40"/>
+	</a>
+	<a href="https://Android development.dev/" target="_blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thu…tlin_logo_2021.svg/180px-Kotlin_logo_2021.svg.png" width="40" height="40"/>
 	</a>
 </p>
 
