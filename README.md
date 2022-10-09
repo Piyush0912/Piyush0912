@@ -55,7 +55,7 @@
 		<img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/256/android-sdk-icon.png" width="40" height="40"/>
 	</a>
 	<a href="https://Android development.dev/" target="_blank">
-		<img src="https://en.wikipedia.org/wiki/File:Kotlin_logo_2021.svg" width="40" height="40"/>
+		<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" width="40" height="40"/>
 	</a>
 </p>
 
