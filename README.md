@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Piyush0912/](https://github.com/Piyush0912/)
 
-- 📝 I Have my portfolio at [https://nmastepankaj.netlify.app/](https://nmastepankaj.netlify.app/)
-
 - 💬 Ask me about **C/C++, DSA, Competitive Programming,Android development**
 
 - 📫 How to reach me **piyush74bansal@gmail.com**
